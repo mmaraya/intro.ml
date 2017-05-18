@@ -1,2 +1,2 @@
 # ud120  
-Introduction to Machine Learnin @ Udacityg
+Introduction to Machine Learnin @ Udacity
