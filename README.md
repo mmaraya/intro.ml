@@ -1,2 +1,2 @@
-# intro.ml
-Introduction to Machine Learning @ Udacity
+# ud120  
+Introduction to Machine Learnin @ Udacityg
